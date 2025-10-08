@@ -46,6 +46,9 @@ A cada pull request aberto ou atualizado
 Manualmente através da aba "Actions" no GitHub
 Visualizando os Resultados
 
+<img width="710" height="270" alt="image" src="https://github.com/user-attachments/assets/952dd87b-63bd-4aef-9863-c00406bd8f1e" />
+
+
 Acesse seu repositório no GitHub
 Clique na aba "Actions"
 Veja todos os workflows executados
